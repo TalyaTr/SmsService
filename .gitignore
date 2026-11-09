@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# SQLite database
+*.db
+
+# Logs
+*.log
+
+# Test results
+TestResults/
